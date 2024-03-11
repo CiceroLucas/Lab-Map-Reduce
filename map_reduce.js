@@ -71,4 +71,4 @@ const result = mapReduce(fileParts);
 
 saveToFile(result, "result.txt");
 
-console.log("salve in result.txt");
+console.log("save in result.txt");
